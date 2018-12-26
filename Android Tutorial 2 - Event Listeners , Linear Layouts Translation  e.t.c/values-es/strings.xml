@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android2</string>
+    <string name="Hello_World">Hola Mundo!</string>
+    <string name="Are_You_Happy_query">¿Estás feliz?</string>
+    <string name="Yes">Sí</string>
+    <string name="No">No</string>
+    <string name="Pick_Me">Elíjame</string>
+    <string name="No_Pick_Me">No, eligeme</string>
+    <string name="Enter_your_name">Introduzca su nombre</string>
+</resources>

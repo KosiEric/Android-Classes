@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android2</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="Are_You_Happy_query">Are You Happy?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Pick_Me">Pick Me</string>
+    <string name="No_Pick_Me">No Pick Me</string>
+    <string name="Enter_your_name">Enter your name</string>
+</resources>
