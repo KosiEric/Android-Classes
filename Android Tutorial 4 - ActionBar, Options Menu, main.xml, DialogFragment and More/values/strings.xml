@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">android4</string>
+    <string name="Exit">Exit</string>
+    <string name="Settings">Settings</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">@android:string/cancel</string>
+    <string name="Title_goes_here">Title goes here</string>
+    <string name="Message_goes_here">Message goes here</string>
+    <string name="You_clicked_OK">You clicked OK</string>
+    <string name="You_clicked_Cancel">You clicked Cancel</string>
+    <string name="status_disabled">Status disabled</string>
+    <string name="status_enabled">Status enabled</string>
+    <string name="status">Status</string>
+
+
+</resources>
