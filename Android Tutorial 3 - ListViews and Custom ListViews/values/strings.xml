@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">android3</string>
+   <string-array name="profileNames">
+                <item>Dustin Moskovitz</item>
+                <item>Elon Musk </item>
+                <item>Bill Gates </item>
+                <item>Mark Zuckerberg</item>
+                <item>Larry Page </item>
+                <item>Sergey Brin </item>
+                <item>Steve Jobs </item>
+                 <item>Tim Cook</item>
+   </string-array>
+    <string-array name="profileDescriptions">
+        <item>Co-founder of Facebook</item>
+        <item>CEO SpaceX</item>
+        <item>Founder Microsoft</item>
+        <item>Co-founder CEO Facebook</item>
+        <item>Chairman Alphabet Inc.</item>
+        <item>President Alphabet Inc.</item>
+        <item>Co-founder of Apple</item>
+        <item>CEO Apple</item>
+    </string-array>
+</resources>
