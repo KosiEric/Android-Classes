@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:gravity="center|top"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Go_Get_the_name"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Get_the_name"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:id="@+id/get_the_name_button"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/The_username_was"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/the_username_was"
+        />
+
+</LinearLayout>

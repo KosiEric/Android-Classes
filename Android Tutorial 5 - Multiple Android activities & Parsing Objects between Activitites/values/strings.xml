@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android5</string>
+    <string name="Enter_your_name">Enter your name :</string>
+    <string name="name">name</string>
+    <string name="The_calling_activity_was">The calling activity was</string>
+    <string name="enter">enter</string>
+    <string name="Go_Get_the_name">Go Get the name</string>
+    <string name="Get_the_name">Get the name</string>
+    <string name="The_username_was">The username was</string>
+</resources>
