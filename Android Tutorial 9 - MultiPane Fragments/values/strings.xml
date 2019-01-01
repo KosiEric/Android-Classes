@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android9</string>
+    <string name="main_panel">Main panel</string>
+    <string name="side_panel">Side panel</string>
+</resources>
