@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android8</string>
+    <string name="in_portrait_fragment">in Portrait fragment</string>
+    <string name="in_landscape_fragment">in Landscape fragment</string>
+</resources>
