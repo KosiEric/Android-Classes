@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">andorid0</string>
+    <string-array name="movies">
+        <item>Kyle XY</item>
+        <item>The V\'s</item>
+        <item>Blood Moon</item>
+        <item>Heroes</item>
+        <item>Legend of The Seeker</item>
+        <item>Merlin</item>
+    </string-array>
+</resources>
