@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">android6</string>
+    <string name="mark_zuckerberg">Mark Zuckerberg</string>
+    <string name="ceo_facebook">CEO facebook</string>
+    <string-array name="names">
+        <item>Mark Zuckerberg</item>
+        <item>Bill Gates</item>
+        <item>Tim Cook</item>
+        <item>Elon Musk</item>
+        <item>Sundar Pichai</item>
+        <item>Steve Jobs</item>
+        <item>Larry Page</item>
+        <item>Sergei Brin</item>
+        <item>Jack Ma</item>
+        <item>Robin Li</item>
+        <item>Paul Allen</item>
+        <item>Steve Wozniak</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Co-Founder \&amp; CEO facebook</item>
+        <item>Co-founder Microsoft</item>
+        <item>CEO Apple Inc.</item>
+        <item>CEO Tesla,SpaceX</item>
+        <item>CEO of Google</item>
+        <item>Co-Founder Apple Inc.</item>
+        <item>CEO Alphabet Inc.</item>
+        <item>President Alphabet Inc.</item>
+        <item>Chairman Alibaba Group</item>
+        <item>CEO Baidu Inc.</item>
+        <item>Co-founder Microsoft Inc.</item>
+        <item>Co-Founder Apple Inc. </item>
+
+
+    </string-array>
+</resources>
